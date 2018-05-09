@@ -9,6 +9,6 @@ We trained two types of GAN on more than 1000 DOOM levels created by the communi
 
 [Video](https://www.youtube.com/watch?v=K32FZ-tjQP4&t=4s)
 
-## Example of playable level
+An example of playable level:
 
 <img src="levels/example.png" width="200"> [Download WAD](levels/example.wad)
