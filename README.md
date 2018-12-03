@@ -9,6 +9,11 @@ We trained two types of GAN on more than 1000 DOOM levels created by the communi
 
 [Video](https://www.youtube.com/watch?v=K32FZ-tjQP4&t=4s)
 
-An example of playable level:
+An example of playable level (from the video):
 
-<img src="levels/example.png" width="200"> [Download WAD](levels/example.wad)
+<img src="levels/example.png" width="200">
+ [Download WAD](levels/example.wad)
+
+Other sets of raw levels:
+[32 Levels](levels/DoomGAN-Levels-Set1.zip)
+[32 Levels](levels/DoomGAN-Levels-Set2.zip)
