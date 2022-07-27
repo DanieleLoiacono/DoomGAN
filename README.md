@@ -20,3 +20,7 @@ Sets of raw levels:
 [Set 1 (32 Levels)](levels/DoomGAN-Levels-Set1.zip)
 
 [Set 2 (32 Levels)](levels/DoomGAN-Levels-Set2.zip)
+
+## Code
+
+See [DoomGAN Repository](https://github.com/edoardogiacomello/DoomGAN)
